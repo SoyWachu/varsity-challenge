@@ -9,3 +9,4 @@ functionalities that could not be done due to lack of time
 - better error handling
 - good accesibility (SEO)
 - loading screens (for when data is fetching)
+- tailwind css Class @apply to accomplish DRY
